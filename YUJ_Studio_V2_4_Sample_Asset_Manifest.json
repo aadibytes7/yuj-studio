@@ -1,0 +1,855 @@
+{
+  "version": "sample-1.0",
+  "purpose": "YUJ Studio V2.4 hybrid resolver testing",
+  "assetCount": 21,
+  "assets": [
+    {
+      "id": "mindful_sunrise_right",
+      "title": "Mindful Sunrise — Right Subject",
+      "category": "mindfulness",
+      "file": "mindful_sunrise_right.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "meditation",
+        "mindfulness",
+        "calm",
+        "sunrise",
+        "student",
+        "reflection",
+        "peace"
+      ],
+      "archetypes": [
+        "hero_statement",
+        "emotional_story",
+        "quote_thought"
+      ],
+      "moods": [
+        "calm",
+        "hopeful",
+        "spiritual"
+      ],
+      "subjectZone": "right",
+      "safeZones": {
+        "left": 96,
+        "right": 38,
+        "center": 72,
+        "lower": 84
+      },
+      "qualityScore": 90,
+      "brand": "life_education",
+      "headline": "[Silence] Creates Clarity",
+      "subheading": "A calm visual with strong left-side negative space for large editorial typography.",
+      "url": "assets/sample-library/mindful_sunrise_right.svg",
+      "thumb": "assets/sample-library/mindful_sunrise_right.svg"
+    },
+    {
+      "id": "mindful_twilight_left",
+      "title": "Meditation Twilight — Left Subject",
+      "category": "mindfulness",
+      "file": "mindful_twilight_left.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "meditation",
+        "twilight",
+        "self awareness",
+        "breath",
+        "silence",
+        "inner growth"
+      ],
+      "archetypes": [
+        "hero_statement",
+        "quote_thought",
+        "emotional_story"
+      ],
+      "moods": [
+        "calm",
+        "serious",
+        "spiritual"
+      ],
+      "subjectZone": "left",
+      "safeZones": {
+        "left": 34,
+        "right": 97,
+        "center": 70,
+        "lower": 82
+      },
+      "qualityScore": 90,
+      "brand": "life_education",
+      "headline": "[Awareness] Before Reaction",
+      "subheading": "Designed to leave the right side calm for copy.",
+      "url": "assets/sample-library/mindful_twilight_left.svg",
+      "thumb": "assets/sample-library/mindful_twilight_left.svg"
+    },
+    {
+      "id": "reflection_tree_right",
+      "title": "Reflection Under Tree",
+      "category": "emotional",
+      "file": "reflection_tree_right.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "student",
+        "child",
+        "tree",
+        "reflection",
+        "failure",
+        "exam",
+        "hope",
+        "emotional",
+        "education"
+      ],
+      "archetypes": [
+        "emotional_story",
+        "editorial_story",
+        "hero_statement"
+      ],
+      "moods": [
+        "hopeful",
+        "reflective",
+        "warm"
+      ],
+      "subjectZone": "right",
+      "safeZones": {
+        "left": 94,
+        "right": 32,
+        "center": 62,
+        "lower": 68
+      },
+      "qualityScore": 90,
+      "brand": "life_education",
+      "headline": "Failure Is An Event. Not Your Identity.",
+      "subheading": "Human-story test scene with quiet left-side typography space.",
+      "url": "assets/sample-library/reflection_tree_right.svg",
+      "thumb": "assets/sample-library/reflection_tree_right.svg"
+    },
+    {
+      "id": "student_window_right",
+      "title": "Student By Window — Right",
+      "category": "emotional",
+      "file": "student_window_right.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "student",
+        "exam",
+        "study",
+        "reflection",
+        "window",
+        "failure",
+        "hope",
+        "school",
+        "teen"
+      ],
+      "archetypes": [
+        "emotional_story",
+        "editorial_story"
+      ],
+      "moods": [
+        "serious",
+        "hopeful",
+        "reflective"
+      ],
+      "subjectZone": "right",
+      "safeZones": {
+        "left": 92,
+        "right": 28,
+        "center": 58,
+        "lower": 76
+      },
+      "qualityScore": 90,
+      "brand": "life_education",
+      "headline": "One Result Cannot Measure A Life",
+      "subheading": "A serious emotional-story scene intended to test semantic retrieval.",
+      "url": "assets/sample-library/student_window_right.svg",
+      "thumb": "assets/sample-library/student_window_right.svg"
+    },
+    {
+      "id": "mentor_walk_right",
+      "title": "Mentor Walk — Right",
+      "category": "mentorship",
+      "file": "mentor_walk_right.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "mentor",
+        "teacher",
+        "student",
+        "guidance",
+        "wisdom",
+        "conversation",
+        "learning",
+        "walk"
+      ],
+      "archetypes": [
+        "editorial_story",
+        "educational_explainer"
+      ],
+      "moods": [
+        "warm",
+        "hopeful",
+        "calm"
+      ],
+      "subjectZone": "right",
+      "safeZones": {
+        "left": 93,
+        "right": 30,
+        "center": 60,
+        "lower": 75
+      },
+      "qualityScore": 90,
+      "brand": "life_education",
+      "headline": "Wisdom Is Shared, Not Imposed",
+      "subheading": "Mentorship scene with a strong left safe zone.",
+      "url": "assets/sample-library/mentor_walk_right.svg",
+      "thumb": "assets/sample-library/mentor_walk_right.svg"
+    },
+    {
+      "id": "mentor_table_left",
+      "title": "Mentorship At Table — Left",
+      "category": "mentorship",
+      "file": "mentor_table_left.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "mentor",
+        "student",
+        "discussion",
+        "guidance",
+        "learning",
+        "table",
+        "conversation"
+      ],
+      "archetypes": [
+        "educational_explainer",
+        "editorial_story"
+      ],
+      "moods": [
+        "warm",
+        "serious"
+      ],
+      "subjectZone": "left",
+      "safeZones": {
+        "left": 30,
+        "right": 95,
+        "center": 67,
+        "lower": 70
+      },
+      "qualityScore": 90,
+      "brand": "life_education",
+      "headline": "Questions Before Answers",
+      "subheading": "Right-side copy room tests layout-sensitive asset selection.",
+      "url": "assets/sample-library/mentor_table_left.svg",
+      "thumb": "assets/sample-library/mentor_table_left.svg"
+    },
+    {
+      "id": "outdoor_discovery_right",
+      "title": "Outdoor Discovery — Right",
+      "category": "experiential",
+      "file": "outdoor_discovery_right.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "outdoor",
+        "learning",
+        "exploration",
+        "nature",
+        "student",
+        "experience",
+        "discovery"
+      ],
+      "archetypes": [
+        "editorial_story",
+        "educational_explainer"
+      ],
+      "moods": [
+        "energetic",
+        "hopeful"
+      ],
+      "subjectZone": "right",
+      "safeZones": {
+        "left": 91,
+        "right": 35,
+        "center": 66,
+        "lower": 78
+      },
+      "qualityScore": 90,
+      "brand": "life_education",
+      "headline": "[Beyond] Classroom Walls",
+      "subheading": "Outdoor experiential-learning scene with left negative space.",
+      "url": "assets/sample-library/outdoor_discovery_right.svg",
+      "thumb": "assets/sample-library/outdoor_discovery_right.svg"
+    },
+    {
+      "id": "hands_on_left",
+      "title": "Hands-on Learning — Left",
+      "category": "experiential",
+      "file": "hands_on_left.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "hands on",
+        "making",
+        "experiment",
+        "learning",
+        "project",
+        "table",
+        "craft",
+        "innovation"
+      ],
+      "archetypes": [
+        "educational_explainer",
+        "feature_stack",
+        "editorial_story"
+      ],
+      "moods": [
+        "energetic",
+        "technical"
+      ],
+      "subjectZone": "left",
+      "safeZones": {
+        "left": 33,
+        "right": 94,
+        "center": 70,
+        "lower": 82
+      },
+      "qualityScore": 90,
+      "brand": "life_education",
+      "headline": "Learn By Doing",
+      "subheading": "Right-safe educational asset for features and explanatory copy.",
+      "url": "assets/sample-library/hands_on_left.svg",
+      "thumb": "assets/sample-library/hands_on_left.svg"
+    },
+    {
+      "id": "community_circle_center",
+      "title": "Community Circle",
+      "category": "community",
+      "file": "community_circle_center.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "community",
+        "discussion",
+        "circle",
+        "empathy",
+        "dialogue",
+        "group",
+        "people"
+      ],
+      "archetypes": [
+        "educational_explainer",
+        "editorial_story"
+      ],
+      "moods": [
+        "warm",
+        "inclusive"
+      ],
+      "subjectZone": "center",
+      "safeZones": {
+        "left": 72,
+        "right": 72,
+        "center": 42,
+        "lower": 92
+      },
+      "qualityScore": 90,
+      "brand": "life_education",
+      "headline": "[Together] We Grow",
+      "subheading": "Center-busy community scene with a strong lower text zone.",
+      "url": "assets/sample-library/community_circle_center.svg",
+      "thumb": "assets/sample-library/community_circle_center.svg"
+    },
+    {
+      "id": "community_right",
+      "title": "Community Support — Right",
+      "category": "community",
+      "file": "community_right.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "community",
+        "support",
+        "team",
+        "people",
+        "together",
+        "empathy",
+        "collaboration"
+      ],
+      "archetypes": [
+        "hero_statement",
+        "editorial_story",
+        "educational_explainer"
+      ],
+      "moods": [
+        "warm",
+        "hopeful"
+      ],
+      "subjectZone": "right",
+      "safeZones": {
+        "left": 94,
+        "right": 27,
+        "center": 60,
+        "lower": 72
+      },
+      "qualityScore": 90,
+      "brand": "life_education",
+      "headline": "Community Changes What We Can Carry Alone",
+      "subheading": "Large quiet left field for a hero statement.",
+      "url": "assets/sample-library/community_right.svg",
+      "thumb": "assets/sample-library/community_right.svg"
+    },
+    {
+      "id": "campaign_red_center",
+      "title": "Provocation — Red Signal",
+      "category": "campaign",
+      "file": "campaign_red_center.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "campaign",
+        "provocation",
+        "bold",
+        "truth",
+        "statement",
+        "social",
+        "contrast",
+        "red"
+      ],
+      "archetypes": [
+        "campaign_provocation",
+        "hero_statement"
+      ],
+      "moods": [
+        "provocative",
+        "urgent",
+        "serious"
+      ],
+      "subjectZone": "center",
+      "safeZones": {
+        "left": 82,
+        "right": 82,
+        "center": 88,
+        "lower": 74
+      },
+      "qualityScore": 90,
+      "brand": "life_education",
+      "headline": "हमसे झूठ बोला गया",
+      "subheading": "High-contrast campaign background with deliberately broad typography-safe zones.",
+      "url": "assets/sample-library/campaign_red_center.svg",
+      "thumb": "assets/sample-library/campaign_red_center.svg"
+    },
+    {
+      "id": "quote_sandstone",
+      "title": "Quiet Sandstone Quote",
+      "category": "abstract",
+      "file": "quote_sandstone.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "quote",
+        "thought",
+        "minimal",
+        "calm",
+        "editorial",
+        "texture",
+        "warm"
+      ],
+      "archetypes": [
+        "quote_thought",
+        "hero_statement"
+      ],
+      "moods": [
+        "calm",
+        "warm",
+        "premium"
+      ],
+      "subjectZone": "center",
+      "safeZones": {
+        "left": 95,
+        "right": 95,
+        "center": 96,
+        "lower": 94
+      },
+      "qualityScore": 90,
+      "brand": "life_education",
+      "headline": "A Thought Needs Space",
+      "subheading": "Minimal asset intended to rank highly for quote and announcement archetypes.",
+      "url": "assets/sample-library/quote_sandstone.svg",
+      "thumb": "assets/sample-library/quote_sandstone.svg"
+    },
+    {
+      "id": "announcement_sky",
+      "title": "Luminous Announcement",
+      "category": "abstract",
+      "file": "announcement_sky.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "announcement",
+        "event",
+        "launch",
+        "minimal",
+        "clean",
+        "geometric",
+        "blue"
+      ],
+      "archetypes": [
+        "announcement",
+        "feature_stack",
+        "hero_statement"
+      ],
+      "moods": [
+        "premium",
+        "energetic"
+      ],
+      "subjectZone": "center",
+      "safeZones": {
+        "left": 94,
+        "right": 91,
+        "center": 92,
+        "lower": 90
+      },
+      "qualityScore": 90,
+      "brand": "life_education",
+      "headline": "A Clear Announcement Background",
+      "subheading": "High safe-space scores across the frame for typography-led content.",
+      "url": "assets/sample-library/announcement_sky.svg",
+      "thumb": "assets/sample-library/announcement_sky.svg"
+    },
+    {
+      "id": "feature_grid_dark",
+      "title": "Feature Grid — Dark",
+      "category": "abstract",
+      "file": "feature_grid_dark.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "feature",
+        "benefits",
+        "technical",
+        "grid",
+        "clean",
+        "product",
+        "specification"
+      ],
+      "archetypes": [
+        "feature_stack",
+        "educational_explainer",
+        "product_hero"
+      ],
+      "moods": [
+        "technical",
+        "premium"
+      ],
+      "subjectZone": "right",
+      "safeZones": {
+        "left": 93,
+        "right": 62,
+        "center": 80,
+        "lower": 88
+      },
+      "qualityScore": 90,
+      "brand": "life_education",
+      "headline": "Three Benefits. One Clear Message.",
+      "subheading": "Designed for feature stacks with a clean left copy area.",
+      "url": "assets/sample-library/feature_grid_dark.svg",
+      "thumb": "assets/sample-library/feature_grid_dark.svg"
+    },
+    {
+      "id": "wall_crack_right",
+      "title": "Wall Crack — Right",
+      "category": "product",
+      "file": "wall_crack_right.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "wall",
+        "crack",
+        "repair",
+        "construction",
+        "crack filler",
+        "greenbuild",
+        "damage",
+        "plaster"
+      ],
+      "archetypes": [
+        "product_hero",
+        "feature_stack",
+        "educational_explainer"
+      ],
+      "moods": [
+        "technical",
+        "serious"
+      ],
+      "subjectZone": "right",
+      "safeZones": {
+        "left": 96,
+        "right": 24,
+        "center": 61,
+        "lower": 82
+      },
+      "qualityScore": 94,
+      "brand": "yuj_greenbuild",
+      "headline": "Cracks Start Small",
+      "subheading": "Product-stage background. Real product packaging should be composited later by the renderer.",
+      "url": "assets/sample-library/wall_crack_right.svg",
+      "thumb": "assets/sample-library/wall_crack_right.svg"
+    },
+    {
+      "id": "wall_stage_left",
+      "title": "Clean Wall Product Stage — Left",
+      "category": "product",
+      "file": "wall_stage_left.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "wall",
+        "product stage",
+        "construction",
+        "greenbuild",
+        "minimal",
+        "pedestal",
+        "repair"
+      ],
+      "archetypes": [
+        "product_hero",
+        "feature_stack"
+      ],
+      "moods": [
+        "premium",
+        "technical"
+      ],
+      "subjectZone": "left",
+      "safeZones": {
+        "left": 45,
+        "right": 96,
+        "center": 76,
+        "lower": 90
+      },
+      "qualityScore": 95,
+      "brand": "yuj_greenbuild",
+      "headline": "Built For Product Placement",
+      "subheading": "Right-side negative space supports benefit copy and CTA.",
+      "url": "assets/sample-library/wall_stage_left.svg",
+      "thumb": "assets/sample-library/wall_stage_left.svg"
+    },
+    {
+      "id": "kitchen_counter_right",
+      "title": "Kitchen Counter — Right",
+      "category": "product",
+      "file": "kitchen_counter_right.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "food",
+        "seasoning",
+        "kitchen",
+        "counter",
+        "spice",
+        "ahaara",
+        "living",
+        "meal",
+        "product"
+      ],
+      "archetypes": [
+        "product_hero",
+        "editorial_story"
+      ],
+      "moods": [
+        "warm",
+        "playful",
+        "premium"
+      ],
+      "subjectZone": "right",
+      "safeZones": {
+        "left": 93,
+        "right": 37,
+        "center": 63,
+        "lower": 70
+      },
+      "qualityScore": 91,
+      "brand": "yuj_living",
+      "headline": "Warm Product Lifestyle Scene",
+      "subheading": "Food/product background for testing non-Life-Education asset retrieval.",
+      "url": "assets/sample-library/kitchen_counter_right.svg",
+      "thumb": "assets/sample-library/kitchen_counter_right.svg"
+    },
+    {
+      "id": "learning_notebook_right",
+      "title": "Learning Notebook — Right",
+      "category": "experiential",
+      "file": "learning_notebook_right.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "learning",
+        "notebook",
+        "education",
+        "reflection",
+        "journal",
+        "ideas",
+        "student",
+        "explainer"
+      ],
+      "archetypes": [
+        "educational_explainer",
+        "feature_stack"
+      ],
+      "moods": [
+        "calm",
+        "technical"
+      ],
+      "subjectZone": "right",
+      "safeZones": {
+        "left": 94,
+        "right": 48,
+        "center": 73,
+        "lower": 88
+      },
+      "qualityScore": 90,
+      "brand": "life_education",
+      "headline": "Learning Needs Reflection",
+      "subheading": "Educational explainer asset with a clear left text zone.",
+      "url": "assets/sample-library/learning_notebook_right.svg",
+      "thumb": "assets/sample-library/learning_notebook_right.svg"
+    },
+    {
+      "id": "story_vertical_person_right",
+      "title": "Vertical Human Story — Right",
+      "category": "emotional",
+      "file": "story_vertical_person_right.svg",
+      "width": 1080,
+      "height": 1920,
+      "orientation": "story",
+      "tags": [
+        "human",
+        "story",
+        "student",
+        "reflection",
+        "vertical",
+        "reel",
+        "hope",
+        "sunrise"
+      ],
+      "archetypes": [
+        "emotional_story",
+        "hero_statement"
+      ],
+      "moods": [
+        "hopeful",
+        "reflective"
+      ],
+      "subjectZone": "right",
+      "safeZones": {
+        "left": 95,
+        "right": 25,
+        "center": 65,
+        "lower": 78
+      },
+      "qualityScore": 93,
+      "brand": "life_education",
+      "headline": "Designed For Story/Reel",
+      "subheading": "Tests orientation-aware scoring and reuse.",
+      "url": "assets/sample-library/story_vertical_person_right.svg",
+      "thumb": "assets/sample-library/story_vertical_person_right.svg"
+    },
+    {
+      "id": "square_community_lower",
+      "title": "Square Community — Lower Safe",
+      "category": "community",
+      "file": "square_community_lower.svg",
+      "width": 1200,
+      "height": 1200,
+      "orientation": "square",
+      "tags": [
+        "community",
+        "people",
+        "square",
+        "discussion",
+        "team",
+        "collaboration",
+        "event"
+      ],
+      "archetypes": [
+        "editorial_story",
+        "educational_explainer"
+      ],
+      "moods": [
+        "warm",
+        "inclusive"
+      ],
+      "subjectZone": "center",
+      "safeZones": {
+        "left": 68,
+        "right": 68,
+        "center": 46,
+        "lower": 96
+      },
+      "qualityScore": 91,
+      "brand": "life_education",
+      "headline": "Community In A Square",
+      "subheading": "Strong lower safe zone for square-format testing.",
+      "url": "assets/sample-library/square_community_lower.svg",
+      "thumb": "assets/sample-library/square_community_lower.svg"
+    },
+    {
+      "id": "botanical_corners",
+      "title": "Botanical Corners",
+      "category": "abstract",
+      "file": "botanical_corners.svg",
+      "width": 1200,
+      "height": 1500,
+      "orientation": "portrait",
+      "tags": [
+        "botanical",
+        "leaves",
+        "nature",
+        "calm",
+        "minimal",
+        "organic",
+        "wellness"
+      ],
+      "archetypes": [
+        "quote_thought",
+        "announcement",
+        "hero_statement"
+      ],
+      "moods": [
+        "calm",
+        "spiritual",
+        "warm"
+      ],
+      "subjectZone": "center",
+      "safeZones": {
+        "left": 91,
+        "right": 91,
+        "center": 98,
+        "lower": 93
+      },
+      "qualityScore": 92,
+      "brand": "life_education",
+      "headline": "Organic Minimal Background",
+      "subheading": "High center safe-space score for quotes and announcements.",
+      "url": "assets/sample-library/botanical_corners.svg",
+      "thumb": "assets/sample-library/botanical_corners.svg"
+    }
+  ]
+}
